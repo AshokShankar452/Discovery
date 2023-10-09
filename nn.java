@@ -1,6 +1,6 @@
 package qa.Discover;
 
-public class nnnn {
+public class nn {
 //	Browser="Chrome"
 //			URL=https://www.discover.com/
 //			Name="Ashok"
