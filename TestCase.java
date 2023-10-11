@@ -1,5 +1,5 @@
 package qa.Discover;
 
-public class Exm {
+public class TestCase {
 
 }
